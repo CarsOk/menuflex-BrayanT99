@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	height: 50px;
+	display: flex;
+	border: 1px solid blue;
+	align-items: center;
+	justify-content: space-between;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #61CB7C;
+}
+
+nav div{
+	border: 1px solid red;
+	color: white;
+	height: 50px;
+	width: 80px;
+}
+
+nav div img{
+	height: 50px;
+	width: 80px;
+}
+
+nav div
+
+@media only screen and (max-width: 768px) {
+	nav{
+		background-color: #4A1876
+	}
+}
